@@ -3,4 +3,4 @@ To run,
 - Download the files
 - Run the Matlab script
 
-The script will generate the composites, solve for the electric, thermal, and thermoelectric properties of these composites, and will save the final data.
+The script will generate the composites, solve for the electric, thermal, and thermoelectric properties of these composites, analyze the structure of conducting clusters, and will save the final data.
